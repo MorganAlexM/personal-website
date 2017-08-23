@@ -6,12 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Alex Morgan
+title: Alex Morgan's Website
 email: MorganAlexM@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my personal website for business, educational, and social media related work. Please find a history
+  of my accomplishments, awards, activities, and code here!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://morganalexm.com" # the base hostname & protocol for your site
 twitter_username: the_alexmorgan
