@@ -19,4 +19,4 @@ github_username:  MorganAlexM
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-cayman
